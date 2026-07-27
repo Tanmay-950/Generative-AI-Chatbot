@@ -36,6 +36,10 @@ A chatbot built using NLP, Sentence Transformers, Retrieval-Augmented Generation
 4. Run all cells.
 5. Start chatting with the bot.
 
+## ScreenShot
+<img width="1205" height="505" alt="Screenshot 2026-07-27 104519" src="https://github.com/user-attachments/assets/1a101d25-babb-4ee0-8f60-4835a5c6d482" />
+
+
 ## Author
 
 Tanmay Sharma
